@@ -27,5 +27,6 @@ export default {
 		password: DB_PASSWORD,
 		database: DB_DATABASE,
 		port: Number(DB_PORT),
+		// Test
 	},
 } satisfies Config
